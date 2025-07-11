@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "7c3c",
+      "cityName": "Le Mesnil-Saint-Denis",
+      "country": "France",
+      "date": "2025-03-21T10:18:25.889Z",
+      "emoji": "🇫🇷",
+      "notes": "",
+      "position": {
+        "lat": 48.748945343432936,
+        "lng": 1.9816529277226371
+      }
+    },
+    {
+      "id": "47e5",
+      "cityName": "Llano",
+      "country": "United States of America (the)",
+      "date": "2025-03-21T10:21:07.019Z",
+      "emoji": "🇺🇸",
+      "notes": "Location\n",
+      "position": {
+        "lat": 30.637912028341123,
+        "lng": -98.8737428833523
+      }
+    },
+    {
+      "id": "8001",
+      "cityName": "Cedar Creek-Red Rock",
+      "country": "United States of America (the)",
+      "date": "2025-03-21T12:44:17.141Z",
+      "emoji": "🇺🇸",
+      "notes": "dsdvfsidfvdn",
+      "position": {
+        "lat": 30.17362455035856,
+        "lng": -97.47956118181042
+      }
+    }
+  ]
+}
